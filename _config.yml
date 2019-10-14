@@ -1,0 +1,62 @@
+# Harmony Jekyll theme general configurations
+
+# Base URL
+baseurl: /
+
+# Site live URL
+url: http://silviafei.github.io
+
+# Localhost
+# url: http://127.0.0.1:4000
+
+name: Fei Wang
+# Little description about your site
+description: Student | CS | WHU
+# 'meta_description:' Write an awesome description for your new site here.
+# It will appear in your document head meta (for Google search results) and
+# in your feed.xml site description.
+meta_description: Welcome to my site!
+basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+author: # Author details
+  name: Fei Wang
+  email: silviafei.w@gmail.com
+  url: http://silviafei.github.io
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: UA-xxxx-x
+
+# Profile links, leave blank to ignore
+
+social:
+  linkedin: fei-wang-5a1110196
+  instagram: silviafey.w2019
+# Toggle disclaimer in footer
+show_disclaimer: true
+
+# Conversion / Build settings
+markdown:    kramdown
+# This is how you put pygments config in jekyll 2.0 instead of pygments: true
+highlighter: pygments
+
+# Permalinks
+permalink:        pretty
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
+
+# Sass conversion configs
+sass:
+    sass_dir: assets/css/_sass
+    style: :compressed
+
+plugins:
+  - jemoji
+  - jekyll-octicons
+  # - jekyll-latex
+  # - jekyll-github-metadata

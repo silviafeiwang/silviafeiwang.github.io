@@ -1,0 +1,72 @@
+<h6>Find me</h6>
+
+<ul class="social-media">
+  <li>
+    <a href="https://github.com/silviafei" class="tooltipped tooltipped-se" aria-label="GitHub">
+      {% octicon octoface height:20 fill:#ffffff aria-label:GitHub %}
+    </a>
+  </li>
+  {% for account in site.social %}
+    {% assign service_shortname = account[0] %}
+    {% assign service = site.data.social_media[service_shortname] %}
+    <li>
+      <a href="{{ service.profile_url_prefix }}{{ account[1] }}" aria-label="{{ service.name }}">
+        {{ service.icon_svg }}
+      </a>
+    </li>
+  {% endfor %}
+
+
+<!--
+
+  {% if site.social.twitter %}
+  <li>
+      <a title="{{ site.social.twitter }} on Twitter"
+          href="https://twitter.com/{{ site.social.twitter }}"
+          class="twitter wc-img-replace" target="_blank">Twitter</a>
+  </li>
+  {% endif %}
+
+  {% if site.social.github %}
+  <li>
+      <a title="{{ site.social.github }} on Github"
+          href="https://github.com/{{ site.social.github }}"
+          class="github wc-img-replace" target="_blank">Github</a>
+  </li>
+  {% endif %}
+
+  {% if site.social.facebook %}
+  <li>
+      <a title="{{ site.social.facebook }} on Facebook"
+          href="https://facebook.com/{{ site.social.facebook }}"
+          class="facebook wc-img-replace" target="_blank">Facebook</a>
+  </li>
+  {% endif %}
+
+  {% if site.social.gplus %}
+  <li>
+      <a title="{{ site.social.gplus }} on Google Plus"
+          href="https://plus.google.com/{{ site.social.gplus }}"
+          class="google wc-img-replace" target="_blank">Google</a>
+  </li>
+  {% endif %}
+
+  {% if site.social.dribble %}
+  <li>
+      <a title="{{ site.social.dribble }} on Dribble"
+          href="https://dribbble.com/{{ site.social.dribble }}"
+          class="dribble wc-img-replace" target="_blank">Dribble</a>
+  </li>
+  {% endif %}
+
+  {% if site.social.pinterest %}
+  <li>
+      <a title="{{ site.social.pinterest }} on Pinterest"
+          href="https://www.pinterest.com/{{ site.social.pinterest }}"
+          class="pinterest wc-img-replace" target="_blank">Pinterest</a>
+  </li>
+  {% endif %}
+
+ -->
+
+</ul>
