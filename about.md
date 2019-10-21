@@ -16,12 +16,12 @@ permalink: /about/
       Toronto, Canada
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <i class="em em-bookmark_tabs" aria-role="presentation" aria-label="BOOKMARK TABS"></i>
-    <a href="https://whucs.files.wordpress.com/2019/03/cv_wf-1.pdf" class="text-white">
+    <a href="/assets/CV_feiwang.pdf" class="text-white">
       Curriculum Vitae
     </a>
   </div>
 </div>
-
+<!-- https://whucs.files.wordpress.com/2019/03/.pdf -->
 ---
 Welcome<i class="em em-clap" aria-role="presentation" aria-label="CLAPPING HANDS SIGN"></i>! I am a senior undergraduate student majoring in Computer Science and Technology at [Hongyi Honor College][hy] of [Wuhan University (WHU)][whu], China. I am supervised by [Prof. Yanjiao Chen][yjc] from May, 2018.
 
