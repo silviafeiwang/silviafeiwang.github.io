@@ -4,14 +4,15 @@
 baseurl: /
 
 # Site live URL
-url: http://silviafey.github.io
+url: http://feiwang20.github.io
 
 # Localhost
 # url: http://127.0.0.1:4000
 
-name: Fei Wang
+name: FEI WANG
 # Little description about your site
-description: Student | CS | WHU
+description: Incoming MASc Student @ ECE UofT
+# description: MASc Student @ ECE UofT
 # 'meta_description:' Write an awesome description for your new site here.
 # It will appear in your document head meta (for Google search results) and
 # in your feed.xml site description.
@@ -20,7 +21,7 @@ basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
 author: # Author details
   name: Fei Wang
   email: silviafey.w@gmail.com
-  url: http://silviafey.github.io
+  url: http://feiwang20.github.io
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-xxxx-x

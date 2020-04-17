@@ -34,7 +34,7 @@ html * {
 body {
   font: {
     size: 100%;
-    family: $primary-font; // variables inside partials > _variables.scss
+    family: $Serif; // variables inside partials > _variables.scss
   }
 }
 
@@ -71,9 +71,9 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   // mobile first
-  @include font-size(30px);
+  @include font-size(24px);
   @include MQ(M) {
-    @include font-size(50px);
+    @include font-size(42px);
   }
 }
 
@@ -184,53 +184,33 @@ a {
 
 header.main-header, footer.main-footer {
   p,address {
-    @include font-size(12px);
+    @include font-size(14px);
     @include MQ(M) {
-      @include font-size(14px);
+      @include font-size(16px);
     }
   }
+  font-family: $primary-font;
 }
 
 header.main-header {
   color: $base-00;
   border-top: 5px $base-00 solid;
 
+
   h1, h2, h4{ text-align: center; color: inherit;}
-  a {
-    color: inherit;
-    &:hover, &:active, &:focus {
-      border-bottom-color: transparent;
+
+  h1{
+    font-weight: bold;
+    @include font-size(40px);
+    @include MQ(M) {
+      @include font-size(60px);
     }
   }
 
-  ul {
-    width: 100%;
-    text-align: center;
-    padding: 15px;
-  }
-  ul li {
-    display: inline-block;
-    position:relative;
-    color: $base-08;
-  }
-
-  ul li span {
-    float: left;
-    display: inline-block;
-    width: 15px;
-  }
-
-  ul li a {
-    display:inline-block;
-    color: inherit;
-    border-bottom: 2px transparent solid;
-    padding-bottom:5px;
-    @include transition(all, .2s);
+  h4{
+    @include font-size(16px);
     @include MQ(M) {
       @include font-size(18px);
-    }
-    &:hover, &:focus, &:active {
-      border-bottom-color: inherit;
     }
   }
 }
@@ -239,18 +219,21 @@ footer.main-footer {
   background-color: $base-00;
   color: $base-07;
   .column {
-    float:left;
+    float:center;
     @include column(1);
 
     @include MQ(M) {
-      &.one, &.two, {
-        @include column(.5);
+      &.one, &.two, &.three {
+        @include column(.33);
         display: block;
+        padding-left: 80px;
       }
-
-      &.two{
-        padding-left: 100px;
+      &.three{
+        margin-top: -45px;
       }
+      // &.three{
+      //   padding-left: 40px;
+      // }
     }
   }
 
@@ -303,6 +286,47 @@ footer.main-footer {
       background-color: $base-08;
     }
   }
+  }
+}
+
+div.brief {
+  a {
+    color: inherit;
+    &:hover, &:active, &:focus {
+      border-bottom-color: transparent;
+    }
+  }
+
+  ul {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+  }
+  ul li {
+    list-style-type: none !important;
+    display: inline-block;
+    position:relative;
+    color: $base-08;
+  }
+
+  ul li span {
+    float: left;
+    display: inline-block;
+    width: 30px;
+  }
+
+  ul li a {
+    display:inline-block;
+    color: inherit;
+    border-bottom: 2px transparent solid;
+    padding-bottom:5px;
+    @include transition(all, .2s);
+    @include MQ(M) {
+      @include font-size(18px);
+    }
+    &:hover, &:focus, &:active {
+      border-bottom-color: inherit;
+    }
   }
 }
 
@@ -395,9 +419,10 @@ div.page-content {
     margin-bottom: 1em;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h4, h5, h6 {
     padding-bottom: 5px;
   }
+  h3 {color: $base-08;}
 }
 
 .no-svg div.page-content ul li {
@@ -431,10 +456,8 @@ body.theme-base-01 {
   }
 
   div.page-content {
-    h1, h2, h3, h4, h5, h6 { color: $base-01; }
+    h1, h2, h4, h5, h6 { color: $base-01; }
   }
-
-
 }
 
 /* --------------------------------
@@ -714,16 +737,6 @@ tbody tr:nth-child(odd) th {
   width: 80%;
 }
 
-ul.honor {
-  list-style-type: none;
-  li {
-    display: inline-flex;
-    line-height: 1.6;
-    padding: 0 0 5px 15px;
-    text-align: left;
-  }
-}
-
 .textwrapleft{
   clear: right;
   float: left;
@@ -761,4 +774,11 @@ ul.honor {
   -moz-transition: opacity .25s ease-out;
   -webkit-transition: opacity .25s ease-out;
   -o-transition: opacity .25s ease-out;
+}
+
+.honor {
+  p {
+    display: flex;
+    margin-top: 10px;
+  }
 }

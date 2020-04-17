@@ -5,24 +5,9 @@
     <description></description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 21 Oct 2019 18:48:39 -0400</pubDate>
-    <lastBuildDate>Mon, 21 Oct 2019 18:48:39 -0400</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2020 01:56:14 -0400</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2020 01:56:14 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Deep Q-Network</title>
-        <description>&lt;p&gt;xxxxxxxx&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 Oct 2019 14:46:45 -0400</pubDate>
-        <link>http://localhost:4000//blog/drl/2019/10/21/deep-q-network/</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/drl/2019/10/21/deep-q-network/</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>DRL</category>
-        
-      </item>
     
       <item>
         <title>Welcome to my website!</title>

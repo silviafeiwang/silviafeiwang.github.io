@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog archive
+permalink: /archive/
 ---
 <div class="page-content wc-container">
   {% for post in site.posts %}

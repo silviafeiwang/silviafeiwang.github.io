@@ -9,8 +9,8 @@ gem 'rake'
 
 gem 'pygments.rb'
 
-gem 'jemoji'
-
+# gem 'jemoji'
+gem "jekyll"
 # gem "jekyll-github-metadata"
 gem "jekyll-octicons"
 
