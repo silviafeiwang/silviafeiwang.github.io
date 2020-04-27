@@ -32,6 +32,7 @@ html * {
 }
 
 body {
+  background-color: $base-0G;
   font: {
     size: 100%;
     family: $Serif; // variables inside partials > _variables.scss
@@ -716,7 +717,7 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: $base-05;
 }
-
+background-color
 /* -----------------------------------
 
   Selfie
