@@ -19,8 +19,8 @@ permalink: /honors/
       </div>
 
       <div>
-      <img src="../assets/img/whu.png" class="circle textwrapleft" style="max-width: 100px;">
-      <img src="../assets/img/hyxt.jpeg" class="circle textwrapleft" style="max-width: 100px;">
+      <img src="../assets/img/whu.png" class="circle textwrapleft" style="max-width: 100px; border-radius: 50%">
+      <img src="../assets/img/hyxt.jpeg" class="circle textwrapleft" style="max-width: 100px; border-radius: 50%">
       </div>
       <!-- <div class="col-5">
 
