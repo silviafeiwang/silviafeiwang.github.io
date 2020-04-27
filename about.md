@@ -43,8 +43,10 @@ My research interests lie at the intersections of machine learning, especially *
 
  <!-- Prior to this, I spent four wonderful years at [Hongyi Honor College][hy], [Wuhan University (WHU)][whu], China and got my B.E. degree there. I worked with [Prof. Yanjiao Chen][yjc] during my undergraduate studies.   -->
 
-
-
+<br/>
+<div align="right">
+<p><i>Last modified: March, 2020</i></p>
+</div>
 
 
 
