@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-  <img src="../assets/img/selfie.jpeg" class="center" style="max-width: 150px; border-radius: 50%;">
+  <img src="../assets/img/selfie.jpg" class="center" style="max-width: 200px; border-radius: 50%;">
   <div class="center brief">
     <ul>
     <li>
