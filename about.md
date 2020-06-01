@@ -45,7 +45,7 @@ My research interests lie at the intersections of machine learning, especially *
 
 <br/>
 <div align="right">
-<p><i>Last modified: March, 2020</i></p>
+<p><i>Last modified: May, 2020</i></p>
 </div>
 
 
