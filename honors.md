@@ -9,7 +9,7 @@ permalink: /honors/
 
 
       <div>
-      <p><i class="em em-trophy" aria-role="presentation" aria-label="TROPHY"></i> &nbsp; Outstanding Graduate at Wuhan University, 2020</p>
+      <p><i class="em em-trophy" aria-role="presentation" aria-label="TROPHY"></i> &nbsp;Outstanding Graduate at Wuhan University, 2020</p>
 
       <p><i class="em em-trophy" aria-role="presentation" aria-label="TROPHY"></i> &nbsp;Special Overseas Scholarship, Wuhan University, 2018 & 2019 & 2020</p>
 

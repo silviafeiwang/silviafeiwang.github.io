@@ -4,7 +4,7 @@
 baseurl: /
 
 # Site live URL
-url: http://feiwang20.github.io
+url: http://silviafeiwang.github.io
 
 # Localhost
 # url: http://127.0.0.1:4000
@@ -21,7 +21,7 @@ basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
 author: # Author details
   name: Fei Wang
   email: silviafey.w@gmail.com
-  url: http://feiwang20.github.io
+  url: http://silviafeiwang.github.io
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-xxxx-x

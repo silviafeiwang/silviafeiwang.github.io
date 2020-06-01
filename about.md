@@ -10,7 +10,7 @@ permalink: /about/
     <li>
     <i class="em em-email" aria-role="presentation" aria-label="ENVELOPE"></i>
     <a>
-      silviafey.w AT gmail.com
+      silviafey DOT wang AT utoronto.ca
     </a>
     </li>&nbsp;&nbsp;
     <!-- <li>
