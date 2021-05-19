@@ -35,19 +35,16 @@ permalink: /about/
     </div>
 
 ---
-Welcome<i class="em em-wave" aria-role="presentation" aria-label="WAVING HAND SIGN"></i>! I am an incoming MASc student at [The Edward S. Rogers Sr. Department of Electrical & Computer Engineering (ECE), University of Toronto][ece], Canada. My advisor is [Prof. Baochun Li][bcl]. I'm currently doing an internship at his research group [iQua][i], with excellent teammate [Dr. Salma Emara][se]. I continue to focus on congestion control problem in networking using deep reinforcement learning.
+Welcome<i class="em em-wave" aria-role="presentation" aria-label="WAVING HAND SIGN"></i>! I am a MASc student at [The Edward S. Rogers Sr. Department of Electrical & Computer Engineering (ECE), University of Toronto][ece], Canada. My advisor is [Prof. Baochun Li][bcl]. Prior to this, I spent four wonderful years at [Hongyi Honor College][hy], [Wuhan University (WHU)][whu], China, and got my B.E. degree there. I worked with [Prof. Yanjiao Chen][yjc] during my undergraduate studies. 
 
-I am currently a senior undergraduate in Computer Science and Technology at [Hongyi Honor College][hy], [Wuhan University (WHU)][whu], China. I've been working with [Prof. Yanjiao Chen][yjc] during my undergraduate studies.
+My research interests lie at the intersections of **networking and communication** and machine learning, especially **deep reinforcement learning (DRL)** and **federated learning (FL)**. 
 
-My research interests lie at the intersections of machine learning, especially **deep reinforcement learning (DRL)** and **networking and communication**. I am excited to develop intelligent systems and algorithms that take advantage of computer knowledges and **software-defined networking (SDN)** technology to solve practical problems in the management of large-scale networks.
 
- <!-- Prior to this, I spent four wonderful years at [Hongyi Honor College][hy], [Wuhan University (WHU)][whu], China and got my B.E. degree there. I worked with [Prof. Yanjiao Chen][yjc] during my undergraduate studies.   -->
 
 <br/>
 <div align="right">
-<p><i>Last modified: May, 2020</i></p>
+<p><i>Last modified: May, 2021</i></p>
 </div>
-
 
 
 

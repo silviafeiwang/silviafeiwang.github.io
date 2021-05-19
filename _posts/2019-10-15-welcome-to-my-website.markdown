@@ -8,4 +8,3 @@ categories:
 ---
 
 
-Yeah, no blog here. 
