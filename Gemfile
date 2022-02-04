@@ -16,3 +16,5 @@ gem "jekyll-octicons"
 
 # gem 'jekyll-latex'
 # version conflict
+gem "addressable", ">= 2.8.0"
+gem "nokogiri", ">= 1.12.5"
