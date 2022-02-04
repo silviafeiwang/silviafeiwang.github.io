@@ -11,7 +11,7 @@ url: http://silviafeiwang.github.io
 
 name: FEI WANG
 # Little description about your site
-description: MASc Student @ ECE - UofT
+description: Ph.D. Candidate @ ECE - UofT
 # description: MASc Student @ ECE UofT
 # 'meta_description:' Write an awesome description for your new site here.
 # It will appear in your document head meta (for Google search results) and
@@ -30,7 +30,7 @@ google_analytics_key: UA-xxxx-x
 
 social:
   linkedin: fei-wang-5a1110196
-  instagram: silviafey.w2019
+  instagram: silviafei.wang
 # Toggle disclaimer in footer
 show_disclaimer: true
 
