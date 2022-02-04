@@ -35,7 +35,7 @@ permalink: /about/
     </div>
 
 ---
-Welcome<i class="em em-wave" aria-role="presentation" aria-label="WAVING HAND SIGN"></i>! I am a MASc student at [The Edward S. Rogers Sr. Department of Electrical & Computer Engineering (ECE), University of Toronto][ece], Canada. My advisor is [Prof. Baochun Li][bcl]. Prior to this, I spent four wonderful years at [Hongyi Honor College][hy], [Wuhan University (WHU)][whu], China, and got my B.E. degree there. I worked with [Prof. Yanjiao Chen][yjc] during my undergraduate studies. 
+Welcome<i class="em em-wave" aria-role="presentation" aria-label="WAVING HAND SIGN"></i>! I am a Ph.D. candidate at [The Edward S. Rogers Sr. Department of Electrical & Computer Engineering (ECE), University of Toronto][ece], Canada. My supervisor is [Prof. Baochun Li][bcl]. Prior to this, I spent four wonderful years at [Hongyi Honor College][hy], [Wuhan University (WHU)][whu], China, and got my B.E. degree there. I worked with [Prof. Yanjiao Chen][yjc] during my undergraduate studies. 
 
 My research interests lie at the intersections of **networking and communication** and machine learning, especially **deep reinforcement learning (DRL)** and **federated learning (FL)**. 
 
