@@ -35,14 +35,3 @@ Aug 2018 - Jul 2019</p>
 Zhenchang Xia, Yanjiao Chen, **Fei Wang**, Xudong Liao, Haiyan Hu, Chengye Ma, Jingzhi Zhang, Baochun Li, Libing Wu. (*in submission*)
 
 ---
-## **Improving Emergency Evacuation for the Louvre**
-<div align="right">
-<p>Independent Project<br>
- COMAP's Mathematical Contest in Modeling (MCM) <br>
-Jan 2019</p>
-</div>
-
-**Co-Leader**
-
-- Developed a model using cellular automata simulation and queuing theory to analyze and predict pedestrians’ behaviors in emergency evacuation in the Louvre, considering the effect of crowd traits and architectural characteristics
-- Proposed corresponding policy and procedural recommendations for effective emergency evacuation management of large, crowded buildings
