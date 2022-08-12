@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-permalink: /about/
 ---
 
   <img src="../assets/img/selfie.jpg" class="center" style="max-width: 200px; border-radius: 50%;">
-  <div class="center brief">
+  <div class="brief">
     <ul>
     <li>
     <i class="em em-email" aria-role="presentation" aria-label="ENVELOPE"></i>
-    <a>
-      silviafey DOT wang AT utoronto.ca
+    <a href="mailto:silviafey.wang@utoronto.ca">
+      silviafey.wang@utoronto.ca
     </a>
     </li>&nbsp;&nbsp;
     <!-- <li>
@@ -51,7 +49,7 @@ My research interests lie at the intersections of **networking and communication
 
 [hy]: http://hyxt.whu.edu.cn/
 [whu]: https://en.whu.edu.cn/
-[yjc]: http://iqua.ece.toronto.edu/ychen/
+[yjc]: https://person.zju.edu.cn/en/0020875
 [i]: http://iqua.ece.toronto.edu/aboutus/lab.html
 [ut]: https://www.utoronto.ca/
 [ece]: https://www.ece.utoronto.ca/

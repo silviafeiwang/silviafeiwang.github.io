@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Awards & Honors
 permalink: /honors/
 ---
 

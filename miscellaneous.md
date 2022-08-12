@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Miscellaneous
-permalink: /miscellaneous/
+permalink: /misc/
 ---
 
 <!-- **Singing<i class="em em-microphone" aria-role="presentation" aria-label="MICROPHONE"></i> and listening to music<i class="em em-musical_note" aria-role="presentation" aria-label="MUSICAL NOTE"></i>** -->
