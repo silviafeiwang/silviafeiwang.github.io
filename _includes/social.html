@@ -6,6 +6,11 @@
       {% octicon mark-github height:20 fill:#ffffff aria-label:GitHub %}
     </a>
   </li>
+  <li>
+    <a href="https://scholar.google.ca/citations?user=hGbFxHMAAAAJ&hl=en" class="tooltipped tooltipped-se" aria-label="Scholar">
+      {% octicon mortar-board height:20 fill:#ffffff aria-label:Scholar %}
+    </a>
+  </li>
   {% for account in site.social %}
     {% assign service_shortname = account[0] %}
     {% assign service = site.data.social_media[service_shortname] %}
