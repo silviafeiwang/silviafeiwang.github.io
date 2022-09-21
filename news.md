@@ -1,9 +1,12 @@
 ---
+title: News
 layout: page
 permalink: /news/
 ---
 <div class="page-content wc-container">
     <ul class="posts">
+
+    <li><span> Will attend IEEE ICNP 2022 soon from October 30 to November 2. See you in Lexington, Kentucky, USA!</span></li>
 
     <li><span> Jan 2022 - Transferred from M.A.Sc program to <a href="https://www.ece.utoronto.ca/graduates/degree-programs/phd/">Ph.D. program</a> at ECE, UofT.</span></li>
 

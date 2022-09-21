@@ -1,4 +1,5 @@
 ---
+title: Publications
 layout: page
 permalink: /publications/
 ---
@@ -12,6 +13,7 @@ permalink: /publications/
 
 ## Conference papers
 
-- Salma Emara, **Fei Wang**, Isidor Kaplan, Baochun Li, ["Ivory: Learning Network Adaptive Streaming Codes,"](https://ieeexplore.ieee.org/abstract/document/9812911) in the Proceedings of the 30th IEEE/ACM International Symposium on Quality of Service (IWQoS), 2022 (acceptance rate: 24.3%).
 
-<!-- - **Fei Wang**, Ethan Hugh, Baochun Li, [","]() in the Proceedings of IEEE INFOCOM 2023. -->
+<!-- - **Fei Wang**, Ethan Hugh, Baochun Li,  ["xxx,"]() in the Proceedings of IEEE INFOCOM 2023. -->
+
+- Salma Emara, **Fei Wang**, Isidor Kaplan, Baochun Li, ["Ivory: Learning Network Adaptive Streaming Codes,"](https://ieeexplore.ieee.org/abstract/document/9812911) in the Proceedings of the 30th IEEE/ACM International Symposium on Quality of Service (IWQoS), 2022 (acceptance rate: 24.3%).

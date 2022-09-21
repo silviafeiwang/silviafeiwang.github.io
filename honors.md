@@ -1,4 +1,5 @@
 ---
+title: Awards & Honors
 layout: page
 permalink: /honors/
 ---

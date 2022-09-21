@@ -1,11 +1,9 @@
 ---
+title: Teaching
 layout: page
 permalink: /teaching/
 ---
 
-
-## Fall 2022
-- TBA
 
 ## Winter 2022
 - ECEH1S – ECE Project (in JavaScript): Developer
