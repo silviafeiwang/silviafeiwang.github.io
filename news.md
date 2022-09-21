@@ -6,11 +6,11 @@ permalink: /news/
 <div class="page-content wc-container">
     <ul class="posts">
 
-    <li><span> Will attend IEEE ICNP 2022 soon from October 30 to November 2. See you in Lexington, Kentucky, USA!</span></li>
+    <li><span> Will attend <a href="https://icnp22.cs.ucr.edu/"> IEEE ICNP 2022 </a> soon (from October 30 to November 2). See you in Lexington, Kentucky, USA <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i> !</span></li>
 
     <li><span> Jan 2022 - Transferred from M.A.Sc program to <a href="https://www.ece.utoronto.ca/graduates/degree-programs/phd/">Ph.D. program</a> at ECE, UofT.</span></li>
 
-    <li><span> May 2021 - Took a research internship at The Hong Kong University of Science and Technology, Hong Kong SAR <i class="em em-flag-hk" aria-role="presentation" aria-label="Hong Kong Flag"></i>, under the supervision of <a href="http://iqua.ece.toronto.edu/bli/index.html">Prof. Baochun Li</a> and <a href="https://www.cse.ust.hk/~bli/">Prof. Bo Li</a>.</span></li>
+    <li><span> May 2021 - Took a 4-month research internship at The Hong Kong University of Science and Technology, Hong Kong SAR <i class="em em-flag-hk" aria-role="presentation" aria-label="Hong Kong Flag"></i>, under the supervision of <a href="http://iqua.ece.toronto.edu/bli/index.html">Prof. Baochun Li</a> and <a href="https://www.cse.ust.hk/~bli/">Prof. Bo Li</a>.</span></li>
 
     <li><span> Sept 2020 - Got enrolled as a M.A.Sc student at ECE, UofT, starting my graduate study in computer engineering.</span></li>
 
@@ -22,7 +22,7 @@ permalink: /news/
 
     <li><span> Jan 2020 - Got a volunteer opportunity from a <a href="http://www.freevolunteerthailand.org/">non-profit organization, ICCVTT</a>, and served as an English teacher for primary school students at rural area in Nan, Thailand <i class="em em-flag-th" aria-role="presentation" aria-label="Thailand Flag"></i> for a month.</span></li>
 
-    <li><span> Sept 2019 - Took a research internship at <a href="http://iqua.ece.toronto.edu/aboutus/lab.html">iQua group</a> under the guidance of <a href="http://iqua.ece.toronto.edu/bli/index.html">Prof. Baochun Li</a>, at the Department of Electrical & Computer Engineering (ECE), University of Toronto.</span></li>
+    <li><span> Sept 2019 - Took a 3-month research internship at <a href="http://iqua.ece.toronto.edu/aboutus/lab.html">iQua group</a> under the guidance of <a href="http://iqua.ece.toronto.edu/bli/index.html">Prof. Baochun Li</a>, at the Department of Electrical & Computer Engineering (ECE), University of Toronto.</span></li>
 
     <li><span> May 2019 - Attended <a href="https://www.acmturc.com/2019/en/index.html">ACM TURC 2019: ACM Turing Celebration Conference - China</a> at Chengdu, China.</span></li>
 
