@@ -2,7 +2,7 @@
 layout: page
 ---
 
-  <img src="../assets/img/1.jpg" class="center" style="max-width: 300px; border-radius: 50%;">
+  <img src="../assets/img/0.jpg" class="center" style="max-width: 300px; border-radius: 50%;">
   <div class="brief">
     <ul>
     <li>
