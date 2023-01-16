@@ -4,6 +4,19 @@ layout: page
 permalink: /projects/
 ---
 
+## **Gradient Leakage in Production Federated Learning**
+<div align="right">
+<p>Graduate Research<br>
+Electrical & Computer Engineering, University of Toronto<br>
+May 2022 - Aug 2022</p>
+</div>
+
+**Advised by Prof. Baochun Li**
+
+- Conducted an in-depth study of gradient leakage attacks in the context of production federated learning systems and discovered that the effectiveness and efficiency of existing gradient leakage attacks are weakened by a substantial margin in standard federated learning settings
+- Proposed a lightweight defense mechanism that can provide sufficient protection on shared model updates without sacrificing accuracy and convergence speed, and can adapt to time-varying levels of the privacy leakage risk throughout the federated learning process
+
+---
 
 ## **On the Quality of Model Contributions in Federated Learning**
 <div align="right">
