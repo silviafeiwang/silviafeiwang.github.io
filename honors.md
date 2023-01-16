@@ -8,7 +8,7 @@ permalink: /honors/
 <div>
 
       <div>
-      <p><i class="em em-trophy" aria-role="presentation" aria-label="TROPHY"></i> &nbsp;The Edward S. Rogers Sr. Graduate Scholarships, University of Toronto, 2020-2022</p>
+      <p><i class="em em-trophy" aria-role="presentation" aria-label="TROPHY"></i> &nbsp;The Edward S. Rogers Sr. Graduate Scholarships, University of Toronto, 2020-2023</p>
 
       <p><i class="em em-trophy" aria-role="presentation" aria-label="TROPHY"></i> &nbsp;Outstanding Graduate at Wuhan University, 2020</p>
 

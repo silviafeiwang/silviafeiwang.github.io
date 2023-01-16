@@ -5,8 +5,10 @@ permalink: /news/
 ---
 <div class="page-content wc-container">
     <ul class="posts">
+    
+    <li><span> Will attend <a href="https://infocom2023.ieee-infocom.org/"> IEEE INFOCOM 2023 </a> (May 17 — May 20) in the New York Area, USA <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i>, see you there!</span></li>
 
-    <li><span> Will attend <a href="https://icnp22.cs.ucr.edu/"> IEEE ICNP 2022 </a> soon (from October 30 to November 2). See you in Lexington, Kentucky, USA <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i> !</span></li>
+    <li><span> Attended <a href="https://icnp22.cs.ucr.edu/"> IEEE ICNP 2022 </a> (Oct 30 — Nov 2) in Lexington, Kentucky, USA <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i> !</span></li>
 
     <li><span> Jan 2022 - Transferred from M.A.Sc program to <a href="https://www.ece.utoronto.ca/graduates/degree-programs/phd/">Ph.D. program</a> at ECE, UofT.</span></li>
 
@@ -24,9 +26,9 @@ permalink: /news/
 
     <li><span> Sept 2019 - Took a 3-month research internship at <a href="http://iqua.ece.toronto.edu/aboutus/lab.html">iQua group</a> under the guidance of <a href="http://iqua.ece.toronto.edu/bli/index.html">Prof. Baochun Li</a>, at the Department of Electrical & Computer Engineering (ECE), University of Toronto.</span></li>
 
-    <li><span> May 2019 - Attended <a href="https://www.acmturc.com/2019/en/index.html">ACM TURC 2019: ACM Turing Celebration Conference - China</a> at Chengdu, China.</span></li>
+    <li><span> May 2019 - Attended <a href="https://www.acmturc.com/2019/en/index.html">ACM TURC 2019: ACM Turing Celebration Conference - China</a> in Chengdu, China.</span></li>
 
-    <li><span> Oct 2018 - Attended <a href="https://cncc.ccf.org.cn/cms/show.action?code=publish_8a9e37b463710b8d0163821ee34a00e3&siteid=100000">China National Computer Congress (CNCC) 2018</a> with the theme "Big Data Drives the Digital Economy" at Hangzhou, China.</span></li>
+    <li><span> Oct 2018 - Attended <a href="https://cncc.ccf.org.cn/cms/show.action?code=publish_8a9e37b463710b8d0163821ee34a00e3&siteid=100000">China National Computer Congress (CNCC) 2018</a> with the theme "Big Data Drives the Digital Economy" in Hangzhou, China.</span></li>
 
     <li><span> Sept 2018 - Went on a 2-week academic visit to the United States <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i> (San Francisco, Boston, New York, and Washington, D.C.) with my class fellows.</span></li>
 

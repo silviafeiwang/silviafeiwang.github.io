@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Journal papers
 
-- **Fei Wang**, Baochun Li, Bo Li, ["Quality-Oriented Federated Learning on the Fly,"]() IEEE Network Magazine, Special Issue on Federated Optimizations and Networked Edge Intelligence, 2022.
+- **Fei Wang**, Baochun Li, Bo Li, ["Quality-Oriented Federated Learning on the Fly,"](https://ieeexplore.ieee.org/document/9964016) IEEE Network Magazine, Special Issue on Federated Optimizations and Networked Edge Intelligence, 2022.
 
 - Salma Emara, **Fei Wang**, Baochun Li, Timothy Zeyl, ["Pareto: Fair Congestion Control with Online Reinforcement Learning,"](https://ieeexplore.ieee.org/document/9803860) in IEEE Transactions on Network Science and Engineering, 2022.
 
