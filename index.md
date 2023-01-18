@@ -31,7 +31,7 @@ layout: page
 
 
 ---
-Welcome<i class="em em-wave" aria-role="presentation" aria-label="WAVING HAND SIGN"></i>! I am a Ph.D. student at [The Edward S. Rogers Sr. Department of Electrical & Computer Engineering (ECE), University of Toronto][ece], Canada. My supervisor is [Prof. Baochun Li][bcl]. Prior to this, I spent four wonderful years at [Hongyi Honor College][hy], [Wuhan University][whu], China, and got my B.E. degree there. I worked with [Prof. Yanjiao Chen][yjc] during my undergraduate studies. 
+Welcome<i class="em em-wave" aria-role="presentation" aria-label="WAVING HAND SIGN"></i>! I am doing my Ph.D. at [The Edward S. Rogers Sr. Department of Electrical & Computer Engineering (ECE), University of Toronto][ece], Canada, under the supervision of [Prof. Baochun Li][bcl]. Prior to this, I spent four wonderful years at [Hongyi Honor College][hy], [Wuhan University][whu], China, and got my B.E. degree with honours there. I worked with [Prof. Yanjiao Chen][yjc] for my undergraduate research. 
 
 My research interests lie at the intersections of **networking and communication** and machine learning, especially **deep reinforcement learning (DRL)** and **federated learning (FL)**. 
 
