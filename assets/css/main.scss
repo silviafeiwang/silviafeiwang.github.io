@@ -508,7 +508,7 @@ Code snippets
 
 --------------------------------- */
 code, pre {
-  font-family: 'Ubuntu Mono', sans-serif;
+  font-family: $primary-font;
 }
 code {
   padding: .25em .5em;
@@ -551,7 +551,7 @@ pre {
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
-  font-family: 'Ubuntu Mono', sans-serif;
+  font-family: $primary-font;
   margin: 1em 0;
 }
 .gist .markdown-body {
