@@ -13,7 +13,13 @@ permalink: /publications/
 
 ## Conference papers
 
+- **Fei Wang**, Salma Emara, Isidor Kaplan, Baochun Li, Timothy Zeyl, ["Multi-Agent Deep Reinforcement Learning for Cooperative Edge Caching via Hybrid Communication,"]() in the Proceedings of IEEE ICC 2023, Rome, Italy, May 28 — June 1, 2023.
 
-- **Fei Wang**, Ethan Hugh, Baochun Li,  ["More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning,"]() in the Proceedings of IEEE INFOCOM 2023, New York, May 17 — 20, 2023 (acceptance rate: 19.2%).
+- **Fei Wang**, Ethan Hugh, Baochun Li, ["More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning,"]() in the Proceedings of IEEE INFOCOM 2023, New York, May 17 — 20, 2023 (acceptance rate: 19.2%).
 
 - Salma Emara, **Fei Wang**, Isidor Kaplan, Baochun Li, ["Ivory: Learning Network Adaptive Streaming Codes,"](https://ieeexplore.ieee.org/abstract/document/9812911) in the Proceedings of the 30th IEEE/ACM International Symposium on Quality of Service (IWQoS), Online, June 10 — 12, 2022 (acceptance rate: 24.3%).
+
+
+## US patents
+
+- Zhenhua Hu, Timothy J. Zeyl, Salma Emara, Baochun Li, **Fei Wang**, ["Method and Apparatus for Multiple Reinforcement Learning Agents in a Shared Environment,"]() filed on December 31, 2021 (_pending_).
