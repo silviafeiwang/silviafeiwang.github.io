@@ -8,6 +8,12 @@ permalink: /honors/
 <div>
 
       <div>
+            <p><i class="em em-briefcase" aria-role="presentation" aria-label="briefcase"></i> &nbsp;IEEE INFOCOM 2023 Student Travel Grant</p>
+
+            <p><i class="em em-briefcase" aria-role="presentation" aria-label="briefcase"></i> &nbsp;IEEE ICNP 2022 Travel Grant</p>
+      </div>
+
+      <div>
       <img src="../assets/img/utece.jpg" class="textwrapleft" style="max-width: 200px;">
       </div>
 
@@ -23,6 +29,7 @@ permalink: /honors/
 
 
       <div>
+
       <!-- <img src="../assets/img/whu.png" class="circle textwrapleft" style="max-width: 120px; border-radius: 50%"> -->
       <img src="../assets/img/hyxt.jpeg" class="circle textwrapleft" style="max-width: 120px; border-radius: 50%">
 
