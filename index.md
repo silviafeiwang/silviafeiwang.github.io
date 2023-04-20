@@ -2,7 +2,7 @@
 layout: page
 ---
 
-  <img src="../assets/img/2.jpg" class="center" style="max-width: 300px; border-radius: 50%;">
+  <img src="../assets/img/4.jpg" class="center" style="max-width: 300px; border-radius: 50%;">
   <div class="brief">
     <ul>
     <li>
@@ -31,7 +31,7 @@ layout: page
 
 
 ---
-Welcome<i class="em em-wave" aria-role="presentation" aria-label="WAVING HAND SIGN"></i>! I am doing my Ph.D. at [The Edward S. Rogers Sr. Department of Electrical & Computer Engineering (ECE), University of Toronto][ece], Canada, under the supervision of [Prof. Baochun Li][bcl]. Prior to this, I spent four wonderful years at [Hongyi Honor College][hy], [Wuhan University][whu], China, and got my B.E. degree with honours there. I worked with [Prof. Yanjiao Chen][yjc] for my undergraduate research. 
+Welcome<i class="em em-wave" aria-role="presentation" aria-label="WAVING HAND SIGN"></i>! I am a second-year Ph.D. student at [The Department of Electrical & Computer Engineering (ECE), University of Toronto][ece], Canada, under the supervision of [Prof. Baochun Li][bcl]. Prior to this, I spent four wonderful years at [Hongyi Honor College][hy], [Wuhan University][whu], China, and got my B.E. degree with honours there. I worked with [Prof. Yanjiao Chen][yjc] for my undergraduate research. 
 
 My research interests lie at the intersections of **networking and communication** and machine learning, especially **deep reinforcement learning (DRL)** and **federated learning (FL)**. 
 
@@ -39,7 +39,7 @@ My research interests lie at the intersections of **networking and communication
 
 <br/>
 <div align="right">
-<p><i>Last modified: March, 2023</i></p>
+<p><i>Last modified: April, 2023</i></p>
 </div>
 
 
