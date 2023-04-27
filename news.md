@@ -6,9 +6,9 @@ permalink: /news/
 <div class="page-content wc-container">
     <ul class="posts">
 
-    <li><span> Will attend <a href="https://icc2023.ieee-icc.org/"> IEEE ICC 2023 </a> (May 28 — June 1) in Rome, Italy <i class="em em-it" aria-role="presentation" aria-label="Italy Flag"></i>, see you there!</span></li>
+    <li><span> Will attend <a href="https://icc2023.ieee-icc.org/"> IEEE ICC 2023 </a> (May 28 – June 1) in Rome, Italy <i class="em em-it" aria-role="presentation" aria-label="Italy Flag"></i>, see you there!</span></li>
 
-    <li><span> Will attend <a href="https://infocom2023.ieee-infocom.org/"> IEEE INFOCOM 2023 </a> (May 17 — May 20) in the New York Area, USA <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i>, see you there!</span></li>
+    <li><span> Will attend <a href="https://infocom2023.ieee-infocom.org/"> IEEE INFOCOM 2023 </a> (May 17 – May 20) in the New York Area, USA <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i>, see you there!</span></li>
 
     <li><span> Mar 2023 - Passed the qualifying exam in Computer Engineering and became a Ph.D. candidate!</span></li>
 

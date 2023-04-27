@@ -33,7 +33,7 @@ layout: page
 ---
 Welcome<i class="em em-wave" aria-role="presentation" aria-label="WAVING HAND SIGN"></i>! I am a second-year Ph.D. student at [The Department of Electrical & Computer Engineering (ECE), University of Toronto][ece], Canada, under the supervision of [Prof. Baochun Li][bcl]. Prior to this, I spent four wonderful years at [Hongyi Honor College][hy], [Wuhan University][whu], China, and got my B.E. degree with honours there. I worked with [Prof. Yanjiao Chen][yjc] for my undergraduate research. 
 
-My research interests lie at the intersections of **networking and communication** and machine learning, especially **deep reinforcement learning (DRL)** and **federated learning (FL)**. 
+My research interests center on both efficiency improvement and privacy leakage in distributed machine learning, with a particular emphasis on federated learning. 
 
 
 
