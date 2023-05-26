@@ -8,11 +8,11 @@ permalink: /news/
 
     <li><span> Will attend <a href="https://icc2023.ieee-icc.org/"> IEEE ICC 2023 </a> (May 28 – June 1) in Rome, Italy <i class="em em-it" aria-role="presentation" aria-label="Italy Flag"></i>, see you there!</span></li>
 
-    <li><span> Will attend <a href="https://infocom2023.ieee-infocom.org/"> IEEE INFOCOM 2023 </a> (May 17 – May 20) in the New York Area, USA <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i>, see you there!</span></li>
+    <li><span> Attended <a href="https://infocom2023.ieee-infocom.org/"> IEEE INFOCOM 2023 </a> in the New York Area, USA <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i>.</span></li>
 
     <li><span> Mar 2023 - Passed the qualifying exam in Computer Engineering and became a Ph.D. candidate!</span></li>
 
-    <li><span> Nov 2022 - Attended <a href="https://icnp22.cs.ucr.edu/"> IEEE ICNP 2022 </a> in Lexington, Kentucky, USA <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i> !</span></li>
+    <li><span> Nov 2022 - Attended <a href="https://icnp22.cs.ucr.edu/"> IEEE ICNP 2022 </a> in Lexington, Kentucky, USA <i class="em em-us" aria-role="presentation" aria-label="United States Flag"></i>.</span></li>
 
     <li><span> Jan 2022 - Transferred from M.A.Sc program to <a href="https://www.ece.utoronto.ca/graduates/degree-programs/phd/">Ph.D. program</a> at ECE, UofT.</span></li>
 
