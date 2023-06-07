@@ -5,6 +5,8 @@ permalink: /news/
 ---
 <div class="page-content wc-container">
     <ul class="posts">
+ 
+    <li><span> Working as a research assistant this summer at City University of Hong Kong <i class="em em-flag-hk" aria-role="presentation" aria-label="Hong Kong Flag"></i>, under the supervision of <a href="http://iqua.ece.toronto.edu/bli/index.html">Prof. Baochun Li</a> and <a href="https://www.cs.cityu.edu.hk/~congwang/">Prof. Cong Wang</a>.</span></li>
 
     <li><span> Will attend <a href="https://icc2023.ieee-icc.org/"> IEEE ICC 2023 </a> (May 28 – June 1) in Rome, Italy <i class="em em-it" aria-role="presentation" aria-label="Italy Flag"></i>, see you there!</span></li>
 
@@ -16,7 +18,7 @@ permalink: /news/
 
     <li><span> Jan 2022 - Transferred from M.A.Sc program to <a href="https://www.ece.utoronto.ca/graduates/degree-programs/phd/">Ph.D. program</a> at ECE, UofT.</span></li>
 
-    <li><span> May 2021 - Took a 4-month research internship at The Hong Kong University of Science and Technology, Hong Kong SAR <i class="em em-flag-hk" aria-role="presentation" aria-label="Hong Kong Flag"></i>, under the supervision of <a href="http://iqua.ece.toronto.edu/bli/index.html">Prof. Baochun Li</a> and <a href="https://www.cse.ust.hk/~bli/">Prof. Bo Li</a>.</span></li>
+    <li><span> May 2021 - Took a 4-month research internship at Hong Kong University of Science and Technology <i class="em em-flag-hk" aria-role="presentation" aria-label="Hong Kong Flag"></i>, under the supervision of <a href="http://iqua.ece.toronto.edu/bli/index.html">Prof. Baochun Li</a> and <a href="https://www.cse.ust.hk/~bli/">Prof. Bo Li</a>.</span></li>
 
     <li><span> Sept 2020 - Got enrolled as a M.A.Sc student at ECE, UofT, starting my graduate study in computer engineering.</span></li>
 
