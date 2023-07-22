@@ -26,4 +26,4 @@ permalink: /publications/
 
 ## US patents
 
-- Zhenhua Hu, Timothy J. Zeyl, Salma Emara, Baochun Li, **Fei Wang**, ["Method and Apparatus for Multiple Reinforcement Learning Agents in a Shared Environment,"]() filed on December 31, 2021.
+- Zhenhua Hu, Timothy J. Zeyl, Salma Emara, Baochun Li, **Fei Wang**, ["Method and Apparatus for Multiple Reinforcement Learning Agents in a Shared Environment,"](https://patents.google.com/patent/US20230214725A1/en), July 6, 2023.
