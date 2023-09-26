@@ -6,7 +6,7 @@ permalink: /news/
 <div class="page-content wc-container">
     <ul class="posts">
  
-    <li><span> Working as a research assistant this summer at City University of Hong Kong <i class="em em-flag-hk" aria-role="presentation" aria-label="Hong Kong Flag"></i>, under the supervision of <a href="https://www.cs.cityu.edu.hk/~congwang/">Prof. Cong Wang</a> and <a href="http://iqua.ece.toronto.edu/bli/index.html">Prof. Baochun Li</a>.</span></li>
+    <li><span> Worked as a research assistant this summer at City University of Hong Kong <i class="em em-flag-hk" aria-role="presentation" aria-label="Hong Kong Flag"></i>, under the supervision of <a href="https://www.cs.cityu.edu.hk/~congwang/">Prof. Cong Wang</a> and <a href="http://iqua.ece.toronto.edu/bli/index.html">Prof. Baochun Li</a>.</span></li>
 
     <li><span> Attended <a href="https://icc2023.ieee-icc.org/"> IEEE ICC 2023 </a> (May 28 – June 1) in Rome, Italy <i class="em em-it" aria-role="presentation" aria-label="Italy Flag"></i>.</span></li>
 

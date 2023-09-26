@@ -4,7 +4,10 @@ layout: page
 permalink: /teaching/
 ---
 
-# Teaching
+# Teaching Assistant
+
+#### Fall 2023
+- ECE1771 – Quality of Service
 
 #### Winter 2023
 - APS105 – Computer Fundamentals (in C): Lab TA
