@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## Journal papers
 
+<!-- - **Fei Wang**, Baochun Li, "Harnessing the Power of Local Supervision in Federated Learning," in IEEE Transactions on Big Data, Special Issue on Federated Learning for Big Data Applications  _**(JIF: 7.2)**_. -->
+
+<!-- - **Fei Wang**, Ethan Hugh, Baochun Li, "More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning," in IEEE/ACM Transactions on Networking (fast-track) _**(JIF: 3.7)**_. -->
+
 - **Fei Wang**, Baochun Li, Bo Li, "Federated Unlearning and Its Privacy Threats," in IEEE Network, 2023 _**(JIF: 10.294)**_. [[Paper]](https://iqua.ece.toronto.edu/papers/feiwang-ieeenetwork23.pdf)
 
 
@@ -16,6 +20,8 @@ permalink: /publications/
 
 
 ## Conference papers
+
+- Baochun Li, Ningxin Su, Chen Ying, **Fei Wang**. "Plato: An Open-Source Research Framework for Production Federated Learning," in the Proceedings of ACM Turing Award Celebration Conference (TURC), Wuhan, China, July 28–30, 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3603165.3607364)
 
 - **Fei Wang**, Salma Emara, Isidor Kaplan, Baochun Li, Timothy Zeyl, "Multi-Agent Deep Reinforcement Learning for Cooperative Edge Caching via Hybrid Communication," in the Proceedings of IEEE ICC 2023, Selected Areas in Communications — Machine Learning for Communications and Networking Track, Rome, Italy, May 28 – June 1, 2023. [[Paper]](../assets/pubs/icc23-paper.pdf) [[Slides]](../assets/pubs/icc23-slides.pdf)
 
