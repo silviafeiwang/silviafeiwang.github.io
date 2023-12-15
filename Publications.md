@@ -10,7 +10,7 @@ permalink: /publications/
 
 <!-- - **Fei Wang**, Ethan Hugh, Baochun Li, "More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning," in IEEE/ACM Transactions on Networking (fast-track) _**(JIF: 3.7)**_. -->
 
-- **Fei Wang**, Baochun Li, Bo Li, "Federated Unlearning and Its Privacy Threats," in IEEE Network, 2023 _**(JIF: 10.294)**_. [[Paper]](https://iqua.ece.toronto.edu/papers/feiwang-ieeenetwork23.pdf)
+- **Fei Wang**, Baochun Li, Bo Li, "Federated Unlearning and Its Privacy Threats," in IEEE Network, 2023 _**(JIF: 10.294)**_. [[Paper]](../assets/pubs/ieeenetwork23-paper.pdf)
 
 
 - **Fei Wang**, Baochun Li, Bo Li, "Quality-Oriented Federated Learning on the Fly," in IEEE Network, Special Issue on Federated Optimizations and Networked Edge Intelligence, vol. 36, no. 5, pp. 152–159, September–October 2022 _**(JIF: 10.294)**_. [[Paper]](https://ieeexplore.ieee.org/document/9964016)
@@ -25,7 +25,7 @@ permalink: /publications/
 
 - **Fei Wang**, Salma Emara, Isidor Kaplan, Baochun Li, Timothy Zeyl, "Multi-Agent Deep Reinforcement Learning for Cooperative Edge Caching via Hybrid Communication," in the Proceedings of IEEE ICC 2023, Selected Areas in Communications — Machine Learning for Communications and Networking Track, Rome, Italy, May 28 – June 1, 2023. [[Paper]](../assets/pubs/icc23-paper.pdf) [[Slides]](../assets/pubs/icc23-slides.pdf)
 
-- **Fei Wang**, Ethan Hugh, Baochun Li, "More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning," in the Proceedings of IEEE INFOCOM 2023, New York Area, U.S.A., May 17–20, 2023 _**(acceptance rate: 19.2%, Best Paper Award)**_. [[Paper]](https://iqua.ece.toronto.edu/papers/feiwang-infocom23.pdf) [[Code]](https://github.com/TL-System/plato/tree/main/examples/dlg) [[Slides]](../assets/pubs/infocom23-slides.pdf)
+- **Fei Wang**, Ethan Hugh, Baochun Li, "More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning," in the Proceedings of IEEE INFOCOM 2023, New York Area, U.S.A., May 17–20, 2023 _**(acceptance rate: 19.2%, Best Paper Award)**_. [[Paper]](../assets/pubs/infocom23-paper.pdf) [[Code]](https://github.com/TL-System/plato/tree/main/examples/gradient_leakage_attacks) [[Slides]](../assets/pubs/infocom23-slides.pdf)
 
 - Salma Emara, **Fei Wang**, Isidor Kaplan, Baochun Li, "Ivory: Learning Network Adaptive Streaming Codes," in the Proceedings of the 30th IEEE/ACM International Symposium on Quality of Service (IWQoS), Online, June 10–12, 2022 _**(acceptance rate: 24.3%)**_. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9812911)
 
