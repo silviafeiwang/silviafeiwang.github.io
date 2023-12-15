@@ -6,3 +6,5 @@ _site/
 # Files
 .DS_Store
 *.swp
+vendor/
+.bundle/
