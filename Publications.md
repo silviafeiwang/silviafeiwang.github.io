@@ -8,8 +8,9 @@ permalink: /publications/
 
 <!-- - **Fei Wang**, Ethan Hugh, Baochun Li, "More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning," in IEEE/ACM Transactions on Networking (fast-track) _**(JIF: 3.7)**_. -->
 
+<!-- **Fei Wang**, Baochun Li, “Data Reconstruction and Protection in Federated Learning for Fine-Tuning Large Language Models,” in IEEE Transactions on Big Data, Special Issue on Pre-Trained Large Language Models. -->
 
-- **Fei Wang**, Baochun Li, "Harnessing the Power of Local Supervision in Federated Learning," in IEEE Transactions on Big Data, Special Issue on Federated Learning for Big Data Applications  _**(JIF: 7.2)**_.
+- **Fei Wang**, Baochun Li, "Harnessing the Power of Local Supervision in Federated Learning," in IEEE Transactions on Big Data, Special Issue on Federated Learning for Big Data Applications, 2024 _**(JIF: 7.2)**_.
 
 - **Fei Wang**, Baochun Li, Bo Li, "Federated Unlearning and Its Privacy Threats," in IEEE Network, 2023 _**(JIF: 10.294)**_. [[Paper]](../assets/pubs/ieeenetwork23-paper.pdf)
 
