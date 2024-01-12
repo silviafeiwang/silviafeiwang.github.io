@@ -6,6 +6,9 @@ permalink: /teaching/
 
 # Teaching Assistant
 
+#### Winter 2024
+- APS105 – Computer Fundamentals (in C): Tutorial TA
+
 #### Fall 2023
 - ECE1771 – Quality of Service
 
@@ -13,7 +16,7 @@ permalink: /teaching/
 - APS105 – Computer Fundamentals (in C): Lab TA
 
 #### Winter 2022
-- ECEH1S – ECE Project (in JavaScript): Developer
+- ECEH1S – ECE Project (in JavaScript): Developer Assistent
 - APS105 – Computer Fundamentals (in C): Lab TA
 
 ---
