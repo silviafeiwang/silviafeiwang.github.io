@@ -23,6 +23,8 @@ permalink: /publications/
 
 ## Conference papers
 
+- Salma Emara, Daniel Liu, **Fei Wang**, Baochun Li, "Cascade: Enhancing Reinforcement Learning with Curriculum Federated Learning and Interference Avoidance — A Case Study in Adaptive Bitrate Selection," in the Proceedings of IEEE INFOCOM 2024 Workshop on Distributed Machine Learning and Fog Networks (FOGML), Vancouver, Canada, May 20-23, 2024.
+
 - Baochun Li, Ningxin Su, Chen Ying, **Fei Wang**. "Plato: An Open-Source Research Framework for Production Federated Learning," in the Proceedings of ACM Turing Award Celebration Conference (TURC), Wuhan, China, July 28–30, 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3603165.3607364)
 
 - **Fei Wang**, Salma Emara, Isidor Kaplan, Baochun Li, Timothy Zeyl, "Multi-Agent Deep Reinforcement Learning for Cooperative Edge Caching via Hybrid Communication," in the Proceedings of IEEE ICC 2023, Selected Areas in Communications — Machine Learning for Communications and Networking Track, Rome, Italy, May 28 – June 1, 2023. [[Paper]](../assets/pubs/icc23-paper.pdf) [[Slides]](../assets/pubs/icc23-slides.pdf)
