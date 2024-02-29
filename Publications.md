@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Journal papers
 
-- **Fei Wang**, Ethan Hugh, Baochun Li, "More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning," in IEEE/ACM Transactions on Networking (fast-track), 2024 _**(JIF: 3.7)**_.
+- **Fei Wang**, Ethan Hugh, Baochun Li, "More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning," in IEEE/ACM Transactions on Networking, 2024 _**(JIF: 3.7)**_.
 
 <!-- **Fei Wang**, Baochun Li, “Data Reconstruction and Protection in Federated Learning for Fine-Tuning Large Language Models,” in IEEE Transactions on Big Data, Special Issue on Pre-Trained Large Language Models. -->
 
