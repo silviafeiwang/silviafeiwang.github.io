@@ -6,11 +6,13 @@ permalink: /publications/
 
 ## Journal papers
 
-- **Fei Wang**, Ethan Hugh, Baochun Li, "More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning," in IEEE/ACM Transactions on Networking, 2024 _**(JIF: 3.7)**_.
+- **Fei Wang**, Baochun Li, "Data Reconstruction and Protection in Federated Learning for Fine-Tuning Large Language Models," in IEEE Transactions on Big Data, Special Section on Pre-Trained Large Language Models, 2024 _**(JIF: 7.2)**_. [[Paper]](https://iqua.ece.toronto.edu/papers/feiwang-tbd-llm.pdf)
 
-<!-- **Fei Wang**, Baochun Li, “Data Reconstruction and Protection in Federated Learning for Fine-Tuning Large Language Models,” in IEEE Transactions on Big Data, Special Issue on Pre-Trained Large Language Models. -->
 
-- **Fei Wang**, Baochun Li, "Harnessing the Power of Local Supervision in Federated Learning," in IEEE Transactions on Big Data, Special Issue on Federated Learning for Big Data Applications, 2024 _**(JIF: 7.2)**_.
+- **Fei Wang**, Ethan Hugh, Baochun Li, "More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning," in IEEE/ACM Transactions on Networking, 2024 _**(JIF: 3.7)**_. [[Paper]](https://www.computer.org/csdl/journal/nt/5555/01/10477938/1VuWtkMOaI0)
+
+
+- **Fei Wang**, Baochun Li, "Harnessing the Power of Local Supervision in Federated Learning," in IEEE Transactions on Big Data, Special Issue on Federated Learning for Big Data Applications, 2024 _**(JIF: 7.2)**_. [[Paper]](https://iqua.ece.toronto.edu/papers/feiwang-tbd23.pdf)
 
 - **Fei Wang**, Baochun Li, Bo Li, "Federated Unlearning and Its Privacy Threats," in IEEE Network, 2023 _**(JIF: 10.294)**_. [[Paper]](../assets/pubs/ieeenetwork23-paper.pdf)
 
@@ -23,7 +25,7 @@ permalink: /publications/
 
 ## Conference papers
 
-- Salma Emara, Daniel Liu, **Fei Wang**, Baochun Li, "Cascade: Enhancing Reinforcement Learning with Curriculum Federated Learning and Interference Avoidance — A Case Study in Adaptive Bitrate Selection," in the Proceedings of IEEE INFOCOM 2024 Workshop on Distributed Machine Learning and Fog Networks (FOGML), Vancouver, Canada, May 20-23, 2024.
+- Salma Emara, Daniel Liu, **Fei Wang**, Baochun Li, "Cascade: Enhancing Reinforcement Learning with Curriculum Federated Learning and Interference Avoidance — A Case Study in Adaptive Bitrate Selection," in the Proceedings of IEEE INFOCOM 2024 Workshop on Distributed Machine Learning and Fog Networks (FOGML), Vancouver, Canada, May 20-23, 2024. [[Paper]](https://iqua.ece.utoronto.ca/papers/emara-infocom24-fogml.pdf)
 
 - Baochun Li, Ningxin Su, Chen Ying, **Fei Wang**. "Plato: An Open-Source Research Framework for Production Federated Learning," in the Proceedings of ACM Turing Award Celebration Conference (TURC), Wuhan, China, July 28–30, 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3603165.3607364)
 
