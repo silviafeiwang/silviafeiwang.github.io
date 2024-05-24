@@ -8,6 +8,8 @@ permalink: /honors/
 <div>
 
       <div>
+            <p><i class="em em-briefcase" aria-role="presentation" aria-label="briefcase"></i> &nbsp;School of Graduate Studies (SGS) Conference Grant, University of Toronto, Winter 2024</p>
+            
             <p><i class="em em-briefcase" aria-role="presentation" aria-label="briefcase"></i> &nbsp;IEEE INFOCOM 2023 Student Travel Grant</p>
 
             <p><i class="em em-briefcase" aria-role="presentation" aria-label="briefcase"></i> &nbsp;IEEE ICNP 2022 Travel Grant</p>
@@ -18,9 +20,12 @@ permalink: /honors/
       </div>
 
       <div>
+
+      <p><i class="em em-trophy" aria-role="presentation" aria-label="TROPHY"></i> &nbsp;Mary H. Beatty Fellowship, University of Toronto, 2024-2025</p>
+
       <p><i class="em em-trophy" aria-role="presentation" aria-label="TROPHY"></i> &nbsp;Farid and Diana Najm Graduate Fellowship (received with professor's nomination), University of Toronto, 2023</p>
 
-      <p><i class="em em-trophy" aria-role="presentation" aria-label="TROPHY"></i> &nbsp;The Edward S. Rogers Sr. Graduate Scholarships, University of Toronto, 2020-2023</p>
+      <p><i class="em em-trophy" aria-role="presentation" aria-label="TROPHY"></i> &nbsp;The Edward S. Rogers Sr. Graduate Scholarships, University of Toronto, 2020-2024</p>
       </div>
 
 
