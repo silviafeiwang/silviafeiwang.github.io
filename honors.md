@@ -18,7 +18,7 @@ permalink: /honors/
 
       <div>
 
-            <img src="../assets/img/Utoronto.png" class="textwrapleft" style="max-width: 200px;">
+            <img src="../assets/img/Utoronto.png" class="textwrapleft" style="max-width: 180px;">
 
             <p><i class="em em-briefcase" aria-role="presentation" aria-label="briefcase"></i> &nbsp;School of Graduate Studies (SGS) Conference Grant, University of Toronto, Winter 2024</p>
 
@@ -35,7 +35,7 @@ permalink: /honors/
 
       <div>
 
-      <img src="../assets/img/hyxt.jpeg" class="circle textwrapleft" style="max-width: 200px; border-radius: 50%">
+      <img src="../assets/img/hyxt.jpeg" class="circle textwrapleft" style="max-width: 180px; border-radius: 50%">
 
       <p><i class="em em-trophy" aria-role="presentation" aria-label="trophy"></i> &nbsp;Outstanding Graduate at Wuhan University, 2020</p>
 
