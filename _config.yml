@@ -30,7 +30,7 @@ google_analytics_key: UA-xxxx-x
 
 social:
   linkedin: fei-wang-5a1110196
-  instagram: silviafei.wang
+  # instagram: silviafei.wang
 # Toggle disclaimer in footer
 show_disclaimer: true
 
