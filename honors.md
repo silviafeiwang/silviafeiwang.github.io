@@ -18,7 +18,7 @@ permalink: /honors/
 
       <div>
 
-            <img src="../assets/img/uoftlogo.jpg" class="textwrapleft" style="max-width: 200px;">
+            <img src="../assets/img/Utoronto.png" class="textwrapleft" style="max-width: 200px;">
 
             <p><i class="em em-briefcase" aria-role="presentation" aria-label="briefcase"></i> &nbsp;School of Graduate Studies (SGS) Conference Grant, University of Toronto, Winter 2024</p>
 
