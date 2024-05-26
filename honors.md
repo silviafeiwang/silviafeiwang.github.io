@@ -22,6 +22,7 @@ permalink: /honors/
 
             <p><i class="em em-briefcase" aria-role="presentation" aria-label="briefcase"></i> &nbsp;School of Graduate Studies (SGS) Conference Grant, University of Toronto, Winter 2024</p>
 
+            {% octicon mortar-board height:16 %} 
             <p><i class="em em-mortar-board" aria-role="presentation" aria-label="mortar-board"></i> &nbsp;Mary H. Beatty Fellowship, University of Toronto, 2024 – 2025</p>
 
             <p><i class="em em-mortar-board" aria-role="presentation" aria-label="mortar-board"></i> &nbsp;Farid and Diana Najm Graduate Fellowship (received with professor's nomination), University of Toronto, 2023</p>
