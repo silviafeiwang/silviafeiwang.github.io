@@ -35,7 +35,7 @@ permalink: /honors/
 
       <div>
 
-      <img src="../assets/img/hyxt.jpeg" class="circle textwrapleft" style="max-width: 120px; border-radius: 50%">
+      <img src="../assets/img/hyxt.jpeg" class="circle textwrapleft" style="max-width: 200px; border-radius: 50%">
 
       <p><i class="em em-trophy" aria-role="presentation" aria-label="trophy"></i> &nbsp;Outstanding Graduate at Wuhan University, 2020</p>
 
