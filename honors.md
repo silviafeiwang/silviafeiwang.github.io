@@ -22,11 +22,11 @@ permalink: /honors/
 
             <p><i class="em em-briefcase" aria-role="presentation" aria-label="briefcase"></i> &nbsp;School of Graduate Studies (SGS) Conference Grant, University of Toronto, Winter 2024</p>
 
-            <p><i class="em em-graduation" aria-role="presentation" aria-label="graduation"></i> &nbsp;Mary H. Beatty Fellowship, University of Toronto, 2024 – 2025</p>
+            <p><i class="em em-mortar-board" aria-role="presentation" aria-label="mortar-board"></i> &nbsp;Mary H. Beatty Fellowship, University of Toronto, 2024 – 2025</p>
 
-            <p><i class="em em-graduation" aria-role="presentation" aria-label="graduation"></i> &nbsp;Farid and Diana Najm Graduate Fellowship (received with professor's nomination), University of Toronto, 2023</p>
+            <p><i class="em em-mortar-board" aria-role="presentation" aria-label="mortar-board"></i> &nbsp;Farid and Diana Najm Graduate Fellowship (received with professor's nomination), University of Toronto, 2023</p>
 
-            <p><i class="em em-graduation" aria-role="presentation" aria-label="graduation"></i> &nbsp;The Edward S. Rogers Sr. Graduate Scholarships, University of Toronto, 2020 – 2024</p>
+            <p><i class="em em-mortar-board" aria-role="presentation" aria-label="mortar-board"></i> &nbsp;The Edward S. Rogers Sr. Graduate Scholarships, University of Toronto, 2020 – 2024</p>
       
       </div>
 
@@ -39,11 +39,11 @@ permalink: /honors/
 
       <p><i class="em em-trophy" aria-role="presentation" aria-label="trophy"></i> &nbsp;Outstanding Graduate at Wuhan University, 2020</p>
 
-      <p><i class="em em-graduation" aria-role="presentation" aria-label="graduation"></i> &nbsp;Special Overseas Scholarship, Wuhan University, 2018 – 2020</p>
+      <p><i class="em em-mortar-board" aria-role="presentation" aria-label="mortar-board"></i> &nbsp;Special Overseas Scholarship, Wuhan University, 2018 – 2020</p>
 
       <p><i class="em em-trophy" aria-role="presentation" aria-label="trophy"></i> &nbsp;Excellent Student Cadre, Wuhan University, 2018</p>
 
-      <p><i class="em em-graduation" aria-role="presentation" aria-label="graduation"></i> &nbsp;Outstanding Student Scholarship, Wuhan University, 2016 – 2019</p>
+      <p><i class="em em-mortar-board" aria-role="presentation" aria-label="mortar-board"></i> &nbsp;Outstanding Student Scholarship, Wuhan University, 2016 – 2019</p>
       </div>
 
 
